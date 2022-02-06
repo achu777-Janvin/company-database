@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<title>Register - Hospitl Management System</title>
+	<title>Register - Hospital Management System</title>
 
 	<link href="assets/css/bootstrap.min.css" rel="stylesheet">
   <link href="assets/css/main.css" rel="stylesheet">
@@ -65,7 +65,7 @@
               
               <div class="form-group">
                 <label for="studentno">Patient Number</label>
-                <input type="text" class="form-control" name="studentno" placeholder="Student Number (must be unique)" required>
+                <input type="text" class="form-control" name="studentno" placeholder="Patient Id (must be unique)" required>
               </div>
 
               <div class="form-group">
